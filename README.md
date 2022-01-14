@@ -1,0 +1,2 @@
+# FashioneBookStore_WooCommerce
+This is a Wordpress WooCommerce sight that is selling e-books about fashion. I used the Storefront theme and made some smaller changes to it. I also built a plug in that adds extra fields to products, where you can fill in author and publishing year. Open (site preview/ Fashion Books – The Fashion Ebook Store.html) to see what the front page looks like. Some styling got lost saving the page that way, but you get an idea. 
