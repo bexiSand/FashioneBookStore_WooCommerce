@@ -1,0 +1,14 @@
+2021-12-15T09:55:52+00:00 CRITICAL Uncaught Error: Call to a member function get_average_rating() on null in /var/www/html/wp-content/plugins/woocommerce/templates/loop/rating.php:28
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1386): wc_get_template('loop/rating.php')
+#2 /var/www/html/wp-includes/class-wp-hook.php(303): woocommerce_template_loop_rating('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/templates/content-product.php(57): do_action('woocommerce_aft...')
+#6 /var/www/html/wp-includes/template.php(772): require('/var/www/html/w...')
+#7 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/var/www/html/w...', false)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/cla in /var/www/html/wp-content/plugins/woocommerce/templates/loop/rating.php on line 28
+
+2021-12-15T09:57:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php on line 744
+

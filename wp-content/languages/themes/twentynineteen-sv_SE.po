@@ -1,0 +1,529 @@
+# Translation of Themes - Twenty Nineteen in Swedish
+# This file is distributed under the same license as the Themes - Twenty Nineteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-09 21:22:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Twenty Nineteen\n"
+
+#. Description of the theme
+msgid "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes."
+msgstr "Vårt standardtema för 2019 är utformat för att visa upp blockredigerarens möjligheter. Det har anpassade stilar för alla standardblock och är konstruerat så att innehållet i ser likadant ut redigeraren som på webbplatsen. Twenty Nineteen är utformat så att det kan anpassas för många typer av webbplatser, vare sig du har en fotoblogg, startar ett nytt företag eller stödjer en ideell förening. Det är byggt för att vara snyggt på skärmar av alla storlekar, med gott om vitt utrymme, rubriker i moderna sans-serifer i kombination med brödtext i klassiska serif-typsnitt."
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:20
+msgid "Twenty Nineteen"
+msgstr "Twenty Nineteen"
+
+#: inc/block-patterns.php:195
+msgid "We help companies communicate with their customers."
+msgstr "Vi hjälper företag att kommunicera med sina kunder."
+
+#: inc/block-patterns.php:195
+msgid "Spark interest on social media"
+msgstr "Väck intresse på sociala medier"
+
+#: inc/block-patterns.php:192
+msgid "We help businesses grow."
+msgstr "Vi hjälper företag att växa."
+
+#: inc/block-patterns.php:192
+msgid "Activate new customers"
+msgstr "Aktivera nya kunder"
+
+#: inc/block-patterns.php:189
+msgid "We help startups define (or refine) a clear brand identity."
+msgstr "Vi hjälper nystartade företag att definiera (eller omdefiniera) en tydlig varumärkesidentitet."
+
+#: inc/block-patterns.php:189
+msgid "Redefine brands"
+msgstr "Omdefiniera varumärken"
+
+#: inc/block-patterns.php:179 inc/block-patterns.php:186
+msgid "What We Do"
+msgstr "Vad vi gör"
+
+#: inc/block-patterns.php:167
+msgid "Oddly enough, Doug Watson also grew up working alongside his parents at a family-owned restaurant in Queens, NY. He &nbsp;worked on digital campaigns for Fortune 500 Companies before joining Eva Green Consulting."
+msgstr "Lustigt nog hjälpte även Doug Watson under sina uppväxtår sina föräldrar på en familjeägd restaurang i Queens, NY. Han arbetade med digitala kampanjer för Fortune 500-företag innan han kom till Eva Green Consulting."
+
+#: inc/block-patterns.php:164
+msgid "Doug Watson"
+msgstr "Doug Watson"
+
+#: inc/block-patterns.php:159
+msgid "Eva Young grew up working alongside her parents at their restaurant in Queens, NY. She opened Eva Young Consulting in 2014 to help small businesses like her parents’ restaurant adapt to the digital age."
+msgstr "Eva Young växte upp arbetar tillsammans med sina föräldrar på deras restaurang i Queens, NY. År 2014 öppnade hon Eva Young Consulting för att hjälpa småföretag som hennes föräldrars restaurang att anpassa sig till den digitala tidsåldern."
+
+#: inc/block-patterns.php:156
+msgid "Eva Young"
+msgstr "Eva Young"
+
+#: inc/block-patterns.php:145 inc/block-patterns.php:152
+msgid "Team"
+msgstr "Team"
+
+#: inc/block-patterns.php:131
+msgid "Content Strategy"
+msgstr "Innehållsstrategi"
+
+#: inc/block-patterns.php:126
+msgid "Copywriting"
+msgstr "Marknadsföringstexter"
+
+#: inc/block-patterns.php:121
+msgid "Marketing"
+msgstr "Marknadsföring"
+
+#: inc/block-patterns.php:114
+msgid "Social Media"
+msgstr "Sociala medier"
+
+#: inc/block-patterns.php:109
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/block-patterns.php:104
+msgid "Website Design"
+msgstr "Webbplatsdesign"
+
+#: inc/block-patterns.php:103 inc/block-patterns.php:108
+#: inc/block-patterns.php:113 inc/block-patterns.php:120
+#: inc/block-patterns.php:125 inc/block-patterns.php:130
+#: inc/block-patterns.php:155 inc/block-patterns.php:163
+msgid "Gradient"
+msgstr "Gradient"
+
+#: inc/block-patterns.php:92 inc/block-patterns.php:98
+msgid "Services"
+msgstr "Tjänster"
+
+#: inc/block-patterns.php:80
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: inc/block-patterns.php:74
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:74
+msgid "(555) 555-5555"
+msgstr "(555) 555-5555"
+
+#: inc/block-patterns.php:69
+msgid "New York, New York 10023"
+msgstr "New York, New York 10023"
+
+#: inc/block-patterns.php:69
+msgid "20 Cooper Avenue"
+msgstr "20 Cooper aveny"
+
+#: inc/block-patterns.php:58 inc/block-patterns.php:64
+msgid "Get In Touch"
+msgstr "Kontakta oss"
+
+#: inc/block-patterns.php:46
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: inc/block-patterns.php:42
+msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."
+msgstr "Eva Young Consulting grundades 2014 för att tillgodose behoven hos småföretag i San Francisco Bay Area. Vi hjälper nystartade företag att definiera en tydlig varumärkesidentitet och digital strategi som hjälper dem när de söker finansiering och när företaget växer. Upptäck hur vi kan stärka ditt varumärke med en unik och kraftfull digital marknadsstrategi."
+
+#: inc/block-patterns.php:39
+msgid "Advocating for Businesses and Entrepreneurs since 2014"
+msgstr "På företagens och entreprenörers sida sedan 2014"
+
+#: inc/block-patterns.php:33
+msgid "About"
+msgstr "Om"
+
+#: classes/class-twentynineteen-walker-comment.php:98
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Din kommentar inväntar granskning. Detta är en förhandsgranskning. Din kommentar blir synlig när den har godkänts."
+
+#: functions.php:154
+msgid "Dark Blue"
+msgstr "Mörkblått"
+
+#: functions.php:149
+msgid "Blue"
+msgstr "Blått"
+
+#. translators: %s: Parent post link.
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publicerad i</span><span class=\"post-title\">%s</span>"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicerat i</span><br><span class=\"post-title\">%title</span>"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Utvalt"
+
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:43 inc/back-compat.php:60 inc/back-compat.php:83
+msgid "Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Nineteen kräver lägst WordPress version 4.7. Du använder version %s. Uppgradera och försök igen."
+
+#: inc/template-functions.php:143
+msgid "Back"
+msgstr "Tillbaka"
+
+#: inc/template-functions.php:136
+msgid "More"
+msgstr "Mer"
+
+#: inc/customizer.php:98
+msgid "Apply a filter to featured images using the primary color"
+msgstr "Använd ett filter för utvalda bilder med användning av primärfärgen"
+
+#: inc/customizer.php:78
+msgid "Apply a custom color for buttons, links, featured images, etc."
+msgstr "Använd en anpassad färg för knappar, länkar, utvalda bilder m.m."
+
+#: inc/customizer.php:56
+msgctxt "primary color"
+msgid "Custom"
+msgstr "Anpassad"
+
+#: inc/customizer.php:55
+msgctxt "primary color"
+msgid "Default"
+msgstr "Standard"
+
+#: functions.php:169
+msgid "White"
+msgstr "Vitt"
+
+#: functions.php:164
+msgid "Light Gray"
+msgstr "Ljustgrått"
+
+#: functions.php:159
+msgid "Dark Gray"
+msgstr "Mörkgrått"
+
+#: functions.php:137
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:136
+msgid "Huge"
+msgstr "Enorm"
+
+#: functions.php:131
+msgid "L"
+msgstr "L"
+
+#: functions.php:130
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:125
+msgid "M"
+msgstr "M"
+
+#: functions.php:124
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:119
+msgid "S"
+msgstr "S"
+
+#: functions.php:118
+msgid "Small"
+msgstr "Liten"
+
+#: footer.php:37 functions.php:60
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full storlek"
+
+#: image.php:56
+msgid "Page"
+msgstr "Sida"
+
+#: functions.php:196
+msgid "Add widgets here to appear in your footer."
+msgstr "Lägg till widgetar här som ska visas i sidfoten."
+
+#: functions.php:194 template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Sidfot"
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Huvudfärg"
+
+#: template-parts/post/discussion-meta.php:18
+msgid "No comments"
+msgstr "Ingen kommentar"
+
+#. translators: %d: Number of comments.
+#: template-parts/post/discussion-meta.php:16
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d kommentar"
+msgstr[1] "%d kommentarer"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Visa fler inlägg"
+
+#. translators: %s: Post author.
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Publicerat av %s"
+
+#: template-parts/header/site-branding.php:33
+msgid "Top Menu"
+msgstr "Toppmeny"
+
+#. translators: %s: Post title.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: functions.php:225 template-parts/content/content-single.php:27
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsätt läsa<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: image.php:52 template-parts/content/content-page.php:27
+#: template-parts/content/content-single.php:40
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#. translators: %s: Link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Kunde inte hittas"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+#: search.php:22
+msgid "Search results for: "
+msgstr "Sökresultat för: "
+
+#: inc/template-tags.php:234
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: inc/template-tags.php:230
+msgid "Newer posts"
+msgstr "Nyare inlägg"
+
+#: inc/template-tags.php:104
+msgid "Tags:"
+msgstr "Etiketter:"
+
+#: inc/template-tags.php:92
+msgid "Posted in"
+msgstr "Publicerat i"
+
+#. translators: Used between list items, there is a space after the comma.
+#. translators: Used between list items, there is a space after the comma.
+#: inc/template-tags.php:86 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lämna en kommentar<span class=\"screen-reader-text\"> till %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Publicerat av"
+
+#: inc/template-functions.php:82
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:80
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Archives:"
+msgstr "Arkiv:"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/template-functions.php:90
+msgid "%s Archives:"
+msgstr "Arkiv för %s:"
+
+#: inc/template-functions.php:86
+msgid "Post Type Archives: "
+msgstr "Inläggstypsarkiv: "
+
+#: inc/template-functions.php:84
+msgid "Daily Archives: "
+msgstr "Dagliga arkiv: "
+
+#: inc/template-functions.php:82
+msgid "Monthly Archives: "
+msgstr "Månatliga arkiv: "
+
+#: inc/template-functions.php:80
+msgid "Yearly Archives: "
+msgstr "Årsarkiv: "
+
+#: inc/template-functions.php:78
+msgid "Author Archives: "
+msgstr "Författararkiv: "
+
+#: inc/template-functions.php:76
+msgid "Tag Archives: "
+msgstr "Etikettarkiv: "
+
+#: inc/template-functions.php:74
+msgid "Category Archives: "
+msgstr "Kategoriarkiv: "
+
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:120 template-parts/content/content-page.php:41
+#: template-parts/header/entry-header.php:32
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redigera <span class=\"screen-reader-text\">%s</span>"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:61 template-parts/header/site-branding.php:46
+msgid "Social Links Menu"
+msgstr "Meny för sociala länkar"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primär"
+
+#. translators: %s: WordPress.
+#: footer.php:28
+msgid "Proudly powered by %s."
+msgstr "Drivs med %s."
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: comments.php:96
+msgid "Next"
+msgstr "Nästa"
+
+#: comments.php:95
+msgid "Previous"
+msgstr "Föregående"
+
+#: comments.php:92 comments.php:95 comments.php:96
+msgid "Comments"
+msgstr "Kommentarer"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:44
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s svar på ”%2$s”"
+msgstr[1] "%1$s svar på ”%2$s”"
+
+#. translators: %s: Post title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Ett svar på ”%s”"
+
+#: comments.php:35 comments.php:105 comments.php:107
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: comments.php:33
+msgid "Join the Conversation"
+msgstr "Delta i diskussionen"
+
+#: classes/class-twentynineteen-walker-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: classes/class-twentynineteen-walker-comment.php:89
+msgid "Edit"
+msgstr "Redigera"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentynineteen-walker-comment.php:78
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#. translators: %s: Comment author link.
+#: classes/class-twentynineteen-walker-comment.php:59
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">säger:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar inte som något kunde hittas för den här platsen. Testa en sökning kanske?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentynineteen/"
+msgstr "https://wordpress.org/themes/twentynineteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress-teamet"
+
+#. Author URI of the theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://sv.wordpress.org/"
